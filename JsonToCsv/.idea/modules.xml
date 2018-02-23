@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/PycharmProjects/BarGraph/.idea/BarGraph.iml" filepath="$USER_HOME$/PycharmProjects/BarGraph/.idea/BarGraph.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/LogProgram.iml" filepath="$PROJECT_DIR$/.idea/LogProgram.iml" />
+      <module fileurl="file://C:/Math/.idea/Math.iml" filepath="C:/Math/.idea/Math.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/.idea/PycharmProjects.iml" filepath="$USER_HOME$/PycharmProjects/.idea/PycharmProjects.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/calc/.idea/calc.iml" filepath="$USER_HOME$/PycharmProjects/calc/.idea/calc.iml" />
+      <module fileurl="file://C:/gmap-admin/.idea/gmap-admin.iml" filepath="C:/gmap-admin/.idea/gmap-admin.iml" />
+    </modules>
+  </component>
+</project>

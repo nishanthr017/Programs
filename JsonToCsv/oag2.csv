@@ -1,0 +1,4 @@
+timestamp,level,thread,msg,source_lineno,source_method,source_file,module
+2018-02-20 10:43:34.036246,INFO,944,Message to display,,,,Logs
+2018-02-20 10:43:34.036246,INFO,944,Message to display,,,,Logs
+2018-02-20 10:43:34.036246,INFO,944,Message to display,,,,Logs

@@ -1,0 +1,39 @@
+[{ 	"timestamp": "2018-02-20 10:43:34.036246",
+	"level": "INFO", 
+	"thread": "944", 
+	"msg": "Message to display",
+	"source": { "lineno": "11",
+			 "method": "Addition",
+ 		 	 "file": "p1.py"
+ 		
+ 			},
+	"module": "Logs"
+ },
+
+{ 	"timestamp": "2018-02-20 10:43:34.036246",
+	"level": "INFO", 
+	"thread": "944", 
+	"msg": "Message to display",
+	"source": { "lineno": "11",
+			 "method": "Subtraction",
+ 		 	 "file": "p2.py"
+ 		
+ 			},
+	"module": "Logs"
+ },
+
+{ 	"timestamp": "2018-02-20 10:43:34.036246",
+	"level": "INFO", 
+	"thread": "944", 
+	"msg": "Message to display",
+	"source": { "lineno": "11",
+			 "method": "Multiplication",
+ 		 	 "file": "p3.py"
+ 		
+ 			},
+	"module": "Logs"
+ }
+]
+
+
+
